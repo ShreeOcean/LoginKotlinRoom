@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/LoginActivityKotlinDemo/app/src/main/res/drawable-v24/ic_login.xml" value="0.14" />
         <entry key="..\:/Android Projects/LoginActivityKotlinDemo/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Android Projects/LoginActivityKotlinDemo/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Android Projects/LoginActivityKotlinDemo/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="..\:/Android Projects/LoginActivityKotlinDemo/app/src/main/res/layout/fragment_user_details.xml" value="0.2" />
+        <entry key="..\:/Android Projects/LoginActivityKotlinDemo/app/src/main/res/layout/user_details_item_rv.xml" value="0.2" />
       </map>
     </option>
   </component>
