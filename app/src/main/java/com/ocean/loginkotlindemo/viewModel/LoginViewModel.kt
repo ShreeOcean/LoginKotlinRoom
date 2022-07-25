@@ -6,8 +6,8 @@ import com.ocean.loginkotlindemo.db.SignUpRepository
 import androidx.databinding.Observable
 import androidx.lifecycle.MutableLiveData
 
-class LoginViewModel(private val repository: SignUpRepository, application: Application): AndroidViewModel(application),
-    Observable {
+class LoginViewModel(private val repository: SignUpRepository, application: Application):
+    AndroidViewModel(application), Observable {
 
     val users = repository.users
 
